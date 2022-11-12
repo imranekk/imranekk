@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 👋 Hola, Soy @imranekk
+- 👀 Estoy interesado en aprender a usar Github para programar.
+- 🌱 He empezado a programar con PSeint, un programa básico, seguido de Python. Ahora quiero aprender Github.
+- 💞️ Quiero crear un programa de calculo con mis compañeros de classe.
+- 📫 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
